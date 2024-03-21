@@ -4,3 +4,5 @@ I file della repo rappresentano solamente un modello di come dovrebbe essere fat
 
 Per poter eseguire il codice è necessario scaricare la cartella drive (privata) di yolov5 che contiene il best.pt (file che contiene le informazioni per testare il modello).
 (Ricorda: installare tutti i pacchetti prima dell'esecuzione del codice tramite il comando pip)
+
+Nella repo è presente anche il codice da caricare sulla scheda Arduino che comunica con Python.
